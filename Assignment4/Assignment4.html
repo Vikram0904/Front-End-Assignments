@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <title>Create Login Form</title>
+    <h1><center>Student Login</center></h1>
+    <style>
+        body{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url(../Downloads/background\ Image.jpeg);
+            background-size: cover;
+        }
+        .container{
+            top:25%;
+            left: 40%;
+            position: absolute;
+            transform: (-50%,-50%); }
+        .card{
+            background-color: burlywood;
+            padding: 50px;
+            border-radius: 10px;
+        }  
+        #name{
+            padding: 10px; }
+            #button{
+                background: aqua;
+                color: white;
+                border-radius: 5px;
+                padding: 10px;
+                border: 30px;
+                margin-left:25%;}
+    #cancelbtn:hover{
+        opacity: 10;
+        cursor: pointer;
+        background: black;
+        color: white;}            
+    #button:hover{
+        opacity: 10;
+        cursor: pointer;
+        background: azure;
+        color: black;}
+        #cancelbtn{
+                background: rgb(255, 72, 0);
+                color: white;
+                border-radius: 5px;
+                padding: 10px;
+                border: 30px;}
+    img{
+        border-radius: 15%;
+        position: absolute;
+        top:-20%;
+        left: 30%;
+
+    }    
+    </style>
+</body>
+<div class="container">
+    <img src="../Downloads/User-Image.png" height="110px" width="110px" >
+    <div class="card">
+    <p>Name</p>
+    <input type="text" placeholder="username" name="Username" id="name" > <br>
+    <p>Password</p>
+    <input type="text" placeholder="password" name="password" id="name" > <br><br>
+    <button type="submit" id="button">Login</button><br><br>
+    <button type="button" id="cancelbtn">Cancel</button>
+    <a href="#">Forget Password</a>
+    </div>
+    </div>
+</body>
+</head>  
+</html>

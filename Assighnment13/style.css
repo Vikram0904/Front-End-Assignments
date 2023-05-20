@@ -1,0 +1,438 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+.belgium
+{
+display: flex;
+justify-content:center;
+}
+.belgium .a
+{
+height: 300px;
+width: 100px;
+background-color:#2D2926;
+}
+.belgium .b
+{
+height: 300px;
+width: 100px;
+background-color:#FFCD00;
+}
+.belgium .c
+{
+height: 300px;
+width: 100px;
+background-color:#C8102E;
+}
+.lithuania
+{
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+.lithuania .a
+{
+height: 100px;
+width: 300px;
+background-color:#FFB81C;
+}
+.lithuania .b
+{
+height: 100px;
+width: 300px;
+background-color:#046A38;
+}
+.lithuania .c
+{
+height: 100px;
+width: 300px;
+background-color:#BE3A34;
+}
+.russia
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.russia .a
+{
+height: 100px;
+width: 300px;
+background-color:#FFFFFF;
+}
+.russia .b
+{
+height: 100px;
+width: 300px;
+background-color:#1C3578;
+}
+.russia .c
+{
+height: 100px;
+width: 300px;
+background-color:#E4181C;
+}
+.netherland
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.netherland .a
+{
+height: 100px;
+width: 300px;
+background-color:#C8102E;
+}
+.netherland .b
+{
+height: 100px;
+width: 300px;
+background-color:#FFFFFF;
+}
+.netherland .c
+{
+height: 100px;
+width: 300px;
+background-color:#003DA5;
+}
+.italy
+{
+display: flex;
+justify-content: center;
+}
+.italy .a
+{
+height: 300px;
+width: 100px;
+background-color:#008C45;
+}
+.italy .b
+{
+height: 300px;
+width: 100px;
+background-color:#F4F9FF;
+}
+.italy .c
+{
+height: 300px;
+width: 100px;
+background-color:#CD212A;
+}
+.austria
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.austria .a
+{
+height: 100px;
+width: 300px;
+background-color:#EF3340;
+}
+.austria .b
+{
+height: 100px;
+width: 300px;
+background-color:#FFFFFF;
+}
+.austria .c
+{
+height: 100px;
+width: 300px;
+background-color:#EF3340;
+}
+.armenia 
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.armenia  .a
+{
+height: 100px;
+width: 300px;
+background-color:#D90012;
+}
+.armenia  .b
+{
+height: 100px;
+width: 300px;
+background-color:#001489;
+}
+.armenia  .c
+{
+height: 100px;
+width: 300px;
+background-color:#FF9E1B;
+}
+.germany 
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.germany  .a
+{
+height: 100px;
+width: 300px;
+background-color:#000000;
+}
+.germany  .b
+{
+height: 100px;
+width: 300px;
+background-color:#DD0000;
+}
+.germany  .c
+{
+height: 100px;
+width: 300px;
+background-color:#FFCC00;
+}
+.armenia 
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.armenia  .a
+{
+height: 100px;
+width: 300px;
+background-color:#D90012;
+}
+.armenia  .b
+{
+height: 100px;
+width: 300px;
+background-color:#001489;
+}
+.armenia  .c
+{
+height: 100px;
+width: 300px;
+background-color:#FF9E1B;
+}
+.bulgaria  
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.bulgaria  .a
+{
+height: 100px;
+width: 300px;
+background-color:#FFFFFF;
+}
+.bulgaria  .b
+{
+height: 100px;
+width: 300px;
+background-color:#00966E;
+}
+.bulgaria  .c
+{
+height: 100px;
+width: 300px;
+background-color:#D62612;
+}
+.france 
+{
+display: flex;
+justify-content: center;
+}
+.france  .a
+{
+height: 300px;
+width: 100px;
+background-color:#002654;
+}
+.france  .b
+{
+height: 300px;
+width: 100px;
+background-color:#FFFFFF;
+}
+.france  .c
+{
+height: 300px;
+width: 100px;
+background-color:#ED2939;
+}
+.ireland
+{
+display: flex;
+justify-content: center;
+}
+.ireland  .a
+{
+height: 300px;
+width: 100px;
+background-color:#009A44;
+}
+.ireland  .b
+{
+height: 300px;
+width: 100px;
+background-color:#FFFFFF;
+}
+.ireland  .c
+{
+height: 300px;
+width: 100px;
+background-color:#FF8200;
+}
+.gambia  
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.gambia  .a
+{
+height: 100px;
+width: 300px;
+background-color:#CE1126;
+}
+.gambia  .b
+{
+height: 20px;
+width: 300px;
+background-color:#FFFFFF;
+}
+.gambia  .c
+{
+height: 100px;
+width: 300px;
+background-color:#0C1C8C;
+}
+.gambia  .d
+{
+height: 20px;
+width: 300px;
+background-color:#FFFFFF;
+}
+.gambia  .e
+{
+height: 100px;
+width: 300px;
+background-color:#3A7728;
+}
+.madagascar
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+height: 200px;
+width: 300px;
+background-color:#FFFFFF;
+margin-left:38%;
+padding-left: 7rem;
+}
+.madagascar  .a
+{
+height: 100px;
+width: 300px;
+background-color:#F9423A;
+}
+.madagascar  .b
+{
+height: 100px;
+width: 300px;
+background-color:#00843D;
+}
+.benin
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+height: 200px;
+width: 300px;
+background-color:#008751;
+margin-left:38%;
+padding-left: 7rem;
+}
+.benin  .a
+{
+height: 100px;
+width: 300px;
+background-color:#FCD116;
+}
+.benin  .b
+{
+height: 100px;
+width: 300px;
+background-color:#E8112D;
+}
+.japan
+{
+display: flex;
+justify-content: center;
+height: 200px;
+width: 300px;
+background-color:#FFFFFF;
+margin-left:38%;
+}
+.circle
+{
+height: 150px;
+width: 150px;
+background-color:#BC002D;
+border-radius: 75px;
+margin-top:25px;
+}
+.switzerland 
+{
+display: flex; 
+justify-content: center;
+height:200px;
+width: 300px;
+background-color:#DA291C;
+margin-left: 38%;
+}
+.switzerland  .a
+{
+height: 50px;
+width: 200px;
+background-color:#FFFFFF;
+margin-top: 75px;
+}
+.switzerland  .b
+{
+height: 150px;
+width: 50px;
+background-color:#FFFFFF;
+position: relative;
+top:-50px;
+left: 75px;
+}
+.england 
+{
+height:200px;
+width: 300px;
+background-color:#FFFFFF;
+margin-left: 38%;
+}
+.england  .a
+{
+height: 50px;
+width: 300px;
+background-color:#CE1124;
+top: 75px;
+position: relative;
+}
+.england  .b
+{
+height: 200px;
+width: 50px;
+background-color:#CE1124;
+position: relative;
+left: 120px;
+top: -50px;
+}

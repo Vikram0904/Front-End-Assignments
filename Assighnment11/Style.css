@@ -1,0 +1,83 @@
+body{
+    background-color: darkcyan;
+}
+h1{text-align: center;}
+div>p{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 500px;
+    padding: 1rem;
+    margin: 1rem;
+}
+div section>p{
+    color: white;
+    background-color:red;
+    height: 50px;
+    width: 500px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+ol li{
+    color: white;
+    background-color:rgb(189, 19, 87);
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+div ul{
+    color: white;
+    background-color:rgb(9, 238, 131);
+    height: 100px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+}
+
+div + p
+{
+    color: white;
+    background-color:rgb(12, 154, 66);
+    height: 50px;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+}
+
+div pre{
+    color: white;
+    background-color: rgb(227, 234, 12);
+    height: 50px;
+    width: 500px;
+    padding: 1rem;
+    margin: 1rem;
+}
+div div div pre{
+    color: white;
+    background-color: rgb(233, 8, 188);
+    height: 50px;
+    width: 500px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+div~pre{
+    color: white;
+    background-color: blue;
+    height: 50px;
+    width: 500px;
+    padding: 1rem;
+    margin: 1rem;
+}
+div div div div>p{
+    color: white;
+    background-color:rgb(243, 145, 8);
+    height: 50px;
+    width: 500px;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+

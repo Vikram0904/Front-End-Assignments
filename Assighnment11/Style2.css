@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(152, 224, 165);
+}
+h1{text-align: center;}
+div div div+pre{
+    color: white;
+    background-color: black;
+    height: 20px;
+    width: 1100px;
+    padding: 1rem;
+    margin: 1rem;
+}
+div span{
+    color: white;
+    background-color: rgb(151, 16, 229);
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+
+div div>span{
+    color: white;
+    background-color: rgb(235, 212, 10);
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+
+div div div section span{
+    color: white;
+    background-color: rgb(235, 10, 10);
+    height: 400px;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+div div section p{
+    color: white;
+    background-color: rgb(10, 235, 93);
+    height: 20px;
+    width: 80px;
+    padding: 5px;
+    margin:5px;
+}
+div div div section p{
+    color: white;
+    background-color: rgb(235, 63, 10);
+    height: 20px;
+    width: 80px;
+    padding: 5px;
+    margin:5px;
+}

@@ -1,0 +1,36 @@
+.main{
+    background-color: rgb(11, 142, 154);
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+    padding: 1rem;
+    margin: 5rem;
+    } 
+.box-1{
+    background-color: darkgrey;
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+   
+    }
+.box-2{
+    background-color: cornsilk;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+.box-3{
+    background-color: greenyellow;
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+

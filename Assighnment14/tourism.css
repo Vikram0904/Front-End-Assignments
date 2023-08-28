@@ -1,0 +1,142 @@
+body{
+    background-color: rgb(247, 203, 145);
+}
+.navigation{
+    background-color:rgb(253, 206, 98);
+    width: 100%;
+    position: fixed;
+    top: 0%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+    display:inline-block;
+    list-style-type: none;  
+    margin-right: 100px;
+}
+li{
+    float: left;
+    background-color: #22eb22;
+    border-right: 1px solid black;
+}
+a{
+    text-decoration: none;
+    color:black;
+    padding: 15px 25px;
+    display: inline-block;
+}
+a:hover{
+    color: blue;
+}
+.navigation ul li:first-child{
+    border-radius: 20px 0 0 20px;
+} 
+.navigation ul li:last-child{
+    border-radius: 0 20px 20px 0;
+} 
+
+
+.first{
+    background-color:thistle;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+.subject{
+    background-color:darkolivegreen;
+    height: 250px;
+    width: 700px;
+}
+#a{
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color:steelblue;
+}
+#b{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:normal;
+    text-align: center;
+    color:black;
+}
+.second{
+    background-color:rgb(165, 243, 165);
+    text-align: center;
+    width: 100%;
+}
+pre{
+    color:rgb(23, 186, 250);
+    font-size: 20px;
+}
+.third{
+    background-color:rgba(248, 245, 248, 0.882);
+    display: flex;
+    margin-top: 0%;    }
+#c{
+    font-size: 20px;
+    font-family:monospace;
+    font-weight: bolder;
+    text-align: center;
+    color:white;
+}
+#one{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(90, 157, 90);
+    height: 280px;
+    width:500px;
+}
+#two{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    background-color: skyblue;
+    height: 280px;
+    width:500px;
+}
+#three{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(90, 157, 90);
+    height: 280px;
+    width:500px;
+}
+#four{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    background-color: skyblue;
+    height: 280px;
+    width: 500px;
+   }
+.fourth{
+    text-align: center;
+}    
+#tourism{
+    color: rgb(136, 136, 242);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+#welcoming{
+position: relative;
+bottom: 50px;
+}
+
+
+
+

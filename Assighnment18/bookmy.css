@@ -1,0 +1,50 @@
+img{
+    height: 70px;
+    width: 250px;
+    margin-left: 41%;
+  }
+  body {
+    background-image: url(../Images/red-theatre-chairs-1203500.jpg);
+    background-size: cover;
+  }
+  pre{
+    color:azure;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: lighter;
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+  #btn1{
+    height: 40px;
+    width: 100px;
+    color: red;
+    background-color: rgb(157, 204, 226);
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 33%;
+    cursor: pointer;
+  }
+  #book
+  {
+    color: aliceblue;
+    margin-left: 10%
+  }
+  #btn2{
+    height: 40px;
+    width: 100px;
+    color: red;
+    cursor: pointer;
+    background-color: rgb(157, 204, 226);
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 40%;
+    margin-top: 20px;
+  }
+  /* #ticket
+  {
+    display: flex;
+    
+  }  */
+  

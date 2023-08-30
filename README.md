@@ -1,1 +1,1 @@
-# Front-End-Assighnments
+# Front-End-Assignments
